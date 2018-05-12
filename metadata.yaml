@@ -1,5 +1,8 @@
 _repo: Town-Geology_10251
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kingsley, Charles
@@ -15,6 +18,8 @@ description: The eminent Victorian clergyman and naturalist set out in this 1872
   of lectures to make discoveries in geology accessible to the general reader. In
   addition to a ringing call for study of the natural sciences, the author considers
   climate change, glaciers, limestone, coral reefs, volcanoes, and the origin of coal.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10251#Town-Geology
 gutenberg_bookshelf: Geology
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
